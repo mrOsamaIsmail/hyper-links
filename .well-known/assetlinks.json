@@ -3,7 +3,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.vodafone.hyperrealitycube",
-    "sha256_cert_fingerprints":
-    ["37:A4:6E:D1:00:32:50:34:46:39:1E:91:9E:4E:97:E8:CF:0B:EF:92:3D:E2:66:2F:94:AF:D9:E2:0B:DF:FD:F8"]
+    "sha256_cert_fingerprints": ["9ca2f9ff3428cd0dba257345c62dced0c5faa24f"]
   }
 }]
