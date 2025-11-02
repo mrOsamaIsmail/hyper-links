@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.vodafone.hyperrealitycube",
+               "sha256_cert_fingerprints": ["9ca2f9ff3428cd0dba257345c62dced0c5faa24f"] }
+}]
